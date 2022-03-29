@@ -11,7 +11,7 @@ KELAS   : TI.20.B1 <br>
 ![input2](foto/2.0.jpg)<br>
 ![Output2](foto/2.1.jpg)<br>
 ## Description List
-![input3](foto/3.0.jpg.jpg)<br>
+![input3](foto/3.0.jpg)<br>
 ![Output3](foto/3.1.jpg)<br>
 ## Membuat Tabel
 ![input4](foto/4.0.jpg)<br>
